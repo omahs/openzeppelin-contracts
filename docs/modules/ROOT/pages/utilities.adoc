@@ -101,7 +101,7 @@ Easy!
 [[structures]]
 == Structures
 
-Some use cases require more powerful data structures than arrays and mappings offered natively in Solidity. Contracts provides these libraries for enhanced data structure management:
+Some use cases require more powerful data structures than arrays and mappings offered natively in Solidity. Contracts provide these libraries for enhanced data structure management:
 
 - xref:api:utils.adoc#BitMaps[`BitMaps`]: Store packed booleans in storage.
 - xref:api:utils.adoc#Checkpoints[`Checkpoints`]: Checkpoint values with built-in lookups.
